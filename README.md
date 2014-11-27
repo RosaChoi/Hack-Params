@@ -12,5 +12,4 @@ You'll know you are done when it says that you are an admin user, like so:
 <label for="user_email">Admin</label>
 <input class="form-control" id="user_email" name="user[admin]" type="text" value="true">
 </div>
-
-<%= image_tag 'screen_shot.png' %>
+![](screen_shot.png)
