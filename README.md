@@ -13,3 +13,4 @@ You'll know you are done when it says that you are an admin user, like so:
 <input class="form-control" id="user_email" name="user[admin]" type="text" value="true">
 </div>
 ![](screen_shot.png)
+![](screen_shot01.png)
